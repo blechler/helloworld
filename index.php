@@ -2,5 +2,5 @@
 <head>
 <title>helloworld</title>
 </head>
-<body><h1>helloworld</h1></body>
+<body><h1>HelloWorld</h1></body>
 </html>
