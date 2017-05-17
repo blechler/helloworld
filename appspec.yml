@@ -1,0 +1,12 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/html
+permissions:
+  - object: /var/www/html/index/php
+    mode: 664
+hooks:
+  ApplicationStart:
+    - location: startApp.sh
+      timeout: 30
