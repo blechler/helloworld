@@ -6,5 +6,8 @@
   <h1>HelloWorld</h1>
   <p>This is a HelloWorld site.</p>
   <p>it sure is</p>
+<?php
+  errory();
+?>
 </body>
 </html>
